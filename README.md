@@ -29,13 +29,12 @@ I have learnt about the importance of web accessibility, proper documenting and 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
-  
 
-    ![Header and Navigation image](starter/assets/images/screenshot1.png)
+  ![Header and Navigation image](starter/assets/images/screenshot1.png)
 
-    ![Section articles and Aside articles image](starter/assets/images/screenshot2.png)
+  ![Section articles and Aside articles image](starter/assets/images/screenshot2.png)
 
-    ![Footer image](starter/assets/images/screenshot3.png)
+  ![Footer image](starter/assets/images/screenshot3.png)
 
 ## Credits
 
