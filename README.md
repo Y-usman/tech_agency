@@ -35,11 +35,11 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![https://y-usman.github.io/tech_agency/starter/](https://y-usman.github.io/tech_agency/starter/assets/images/screenshot1.png)
+    ![Header and Navigation image](starter/assets/images/screenshot1.png)
 
-    ![https://y-usman.github.io/tech_agency/starter/](https://y-usman.github.io/tech_agency/starter/assets/images/screenshot2.png)
+    ![Section articles and Aside articles image](starter/assets/images/screenshot2.png)
 
-    ![https://y-usman.github.io/tech_agency/starter/](https://y-usman.github.io/tech_agency/starter/assets/images/screenshot3.png)
+    ![Footer image](starter/assets/images/screenshot3.png)
     ```
 
 ## Credits
