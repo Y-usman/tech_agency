@@ -29,18 +29,13 @@ I have learnt about the importance of web accessibility, proper documenting and 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
+  
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
     ![Header and Navigation image](starter/assets/images/screenshot1.png)
 
     ![Section articles and Aside articles image](starter/assets/images/screenshot2.png)
 
     ![Footer image](starter/assets/images/screenshot3.png)
-    ```
 
 ## Credits
 
