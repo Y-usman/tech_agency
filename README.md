@@ -19,12 +19,12 @@ I have learnt about the importance of web accessibility, proper documenting and 
 
 
 ## Usage
-
-  ![Header and Navigation image](starter/assets/images/screenshot1.png)
+  ![Footer image](starter/assets/images/screenshot3.png)
 
   ![Section articles and Aside articles image](starter/assets/images/screenshot2.png)
 
-  ![Footer image](starter/assets/images/screenshot3.png)
+  ![Header and Navigation image](starter/assets/images/screenshot1.png)
+
 
   **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
