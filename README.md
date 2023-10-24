@@ -1,15 +1,5 @@
 # 01 HTML CSS Git: Code Refactor - Horiseon Marketing Agency
 
-The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
-
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
-
-
-
-
-
 ## Description
 
 - What was your motivation?
@@ -22,11 +12,11 @@ I built this project by refactoring existing code to provide better functionalit
 It makes use of assistive technologies with put into consideration video captions, screen readers, and braille keyboards which users with disabilities might find helpful. It also positions the site better on search engines by using cutting edge SEO techniques.
 
 - What did you learn?
-I have learnt about the importance of web accessibility, proper documenting and clean code. I have also learnt about agile design and development. I have learned about the importance of licenses and referencing any code/material used that is not originally authored by me.
+I have learnt about the importance of web accessibility, proper documenting and clean code. I have also learnt about agile design and development & the "scout rule". I have learned about the importance of licenses and referencing any code/material used that is not originally authored by me.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
 
 ## Usage
 
@@ -36,8 +26,9 @@ What are the steps required to install your project? Provide a step-by-step desc
 
   ![Footer image](starter/assets/images/screenshot3.png)
 
-## Credits
+  **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
+## Credits
 
 
 ## License
@@ -45,15 +36,6 @@ What are the steps required to install your project? Provide a step-by-step desc
 MIT License
 
 Copyright (c) [2023] [Yusuf A Usman](https://github.com/Y-usman/edxbootcamp/starter)
-
-
-## Badges
-
-![Static Badge](https://img.shields.io/badge/html)
-
-![Static Badge](https://img.shields.io/badge/css)
-
-![Static Badge](https://img.shields.io/badge/javascript)
 
 
 ## Features
