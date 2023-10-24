@@ -22,24 +22,7 @@ I built this project by refactoring existing code to provide better functionalit
 It makes use of assistive technologies with put into consideration video captions, screen readers, and braille keyboards which users with disabilities might find helpful. It also positions the site better on search engines by using cutting edge SEO techniques.
 
 - What did you learn?
-I have learnt about the importance of proper and clean code. Agile 
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-
-
-- [Usage](#usage)
-
-
-- [Credits](#credits)
-
-
-- [License](#license)
-
-
+I have learnt about the importance of web accessibility, proper documenting and clean code. I have also learnt about agile design and development. I have learned about the importance of licenses and referencing any code/material used that is not originally authored by me.
 
 ## Installation
 
@@ -52,24 +35,23 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![https://y-usman.github.io/tech_agency/starter/](https://y-usman.github.io/tech_agency/starter/assets/images/screenshot1.png)
+
+    ![https://y-usman.github.io/tech_agency/starter/](https://y-usman.github.io/tech_agency/starter/assets/images/screenshot2.png)
+
+    ![https://y-usman.github.io/tech_agency/starter/](https://y-usman.github.io/tech_agency/starter/assets/images/screenshot3.png)
     ```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
----
+Copyright (c) [2023] [Yusuf A Usman](https://github.com/Y-usman/edxbootcamp/starter)
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
